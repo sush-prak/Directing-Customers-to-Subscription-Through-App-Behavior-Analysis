@@ -1,0 +1,6 @@
+# Directing-Customers-to-Subscription-Through-App-Behavior-Analysis
+
+The app data considered here is from FineTech company, where the objective is to find on what conditions company can get more customers to subscribe towards paid versions of app’s premium feature.
+Model building process includes, EDA with matplotlib and seaborn, data manipulation and parameter tuning.
+
+Python libraries used:pandas, bumpy, seaborn, matplotlib, DateUtil and Time.
